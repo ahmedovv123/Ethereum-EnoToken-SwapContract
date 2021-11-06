@@ -1,4 +1,6 @@
-# eth_swap_vue
+# Eth swap for ENU Token
+
+Experimental project for swapping Eth for Enu token on Ganache (local) blockchain.
 
 ## Project setup
 ```
